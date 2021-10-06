@@ -1,0 +1,23 @@
+v 3
+d mimrgns: Stata module to run margins after mi estimate
+d
+d mimrgns runs margins after mi estimate and leaves results for marginsplot 
+d (Stata 12 or higher). mimrgns generalizes the approach suggested by the 
+d UCLA Statistical Consulting Group. It runs whichever estimation command was 
+d specified with the last call to mi estimate together with margins on the 
+d imputed datasets combining the results. 
+d
+d KW: multiple imputation
+d KW: margins
+d KW: marginsplot
+d
+d Requires: Stata version 11.2
+d
+d Distribution-Date: 20210224
+d
+d Author: Daniel Klein, University of Kassel
+d Support: email klein.daniel.81@gmail.com
+d
+f mimrgns.ado
+f mimrgns_estimate.ado
+f mimrgns.sthlp

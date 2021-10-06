@@ -1,0 +1,2 @@
+v 3
+p mimrgns Stata module to run margins after mi estimate
