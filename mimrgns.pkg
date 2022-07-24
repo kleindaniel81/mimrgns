@@ -13,9 +13,9 @@ d KW: marginsplot
 d
 d Requires: Stata version 11.2
 d
-d Distribution-Date: 20210224
+d Distribution-Date: 20220724
 d
-d Author: Daniel Klein, University of Kassel
+d Author: Daniel Klein, German Centre For Higher Education Research And Science Studies (DZHW)
 d Support: email klein.daniel.81@gmail.com
 d
 f mimrgns.ado
