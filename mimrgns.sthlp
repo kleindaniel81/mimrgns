@@ -351,9 +351,14 @@ chained equations: Issues and guidance for practice. {it:Statistics in Medicine}
 30:377-399.
 
 {pstd}
-Stata FAQ. How can I get margins and marginsplot with multiply 
-imputated data? UCLA: Statistical Consulting Group. from 
-{browse "http://www.ats.ucla.edu/stat/stata/faq/ologit_mi_marginsplot.htm"}
+How can I get margins and marginsplot with multiply imputated data? | Stata FAQ. 
+UCLA Advanced Research Computing. from 
+{browse "https://stats.idre.ucla.edu/stata/faq/how-can-i-get-margins-and-marginsplot-with-multiply-imputed-data/"}
+
+{pstd}
+How can I get margins for a multiply imputed survey logit model? | Stata FAQ.
+UCLA Advanced Research Computing.  from
+{browse "https://stats.oarc.ucla.edu/stata/faq/how-can-i-get-margins-for-a-multiply-imputed-survey-logit-model/"}
 
 
 {title:Acknowledgments}
